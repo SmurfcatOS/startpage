@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: "Libre Baskerville", serif;
+}
+
+#search {
+  border-radius: 25px;
+  padding: 20px;
+  width: 50%;
+  height: 10px;
+  font-family: "Libre Baskerville", serif;
+}
+
+#button {
+  background-color: #deddda;
+  border: none;
+  border-radius: 30px;
+  padding: 20px;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+}
