@@ -25,6 +25,16 @@ body {
   font-family: "Libre Baskerville", serif;
 }
 
+#button:after {
+	content: '';
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	width: calc(100% - 4px);
+	height: 50%;
+	background: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.2));
+}
+
 
 #tracker {
   padding: 3px;
