@@ -15,7 +15,7 @@ body {
   font-family: "Libre Baskerville", serif;
 }
 
-#button {
+button {
   background-color: #deddda;
   background-image: linear-gradient(#deddda, #b1b1b1);
   border: none;
@@ -25,7 +25,7 @@ body {
   font-family: "Libre Baskerville", serif;
 }
 
-#button:after {
+button:after {
 	content: '';
 	position: absolute;
 	top: 2px;
