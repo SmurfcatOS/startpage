@@ -17,12 +17,14 @@ body {
 
 #button {
   background-color: #deddda;
+  background-image: linear-gradient(#deddda, #b1b1b1);
   border: none;
   border-radius: 30px;
   padding: 20px;
   text-align: center;
   font-family: "Libre Baskerville", serif;
 }
+
 
 #tracker {
   padding: 3px;
