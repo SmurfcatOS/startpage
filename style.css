@@ -29,7 +29,9 @@ body {
   background-color: #93c7e6;
   border: solid #93c7e6;
   border-radius: 10px;
-  margin: 30%;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-family: 'Ubuntu Mono', monospace;
 }
 
 #link {
