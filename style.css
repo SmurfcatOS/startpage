@@ -23,3 +23,24 @@ body {
   text-align: center;
   font-family: "Libre Baskerville", serif;
 }
+
+#tracker {
+  padding: 3px;
+  background-color: #93c7e6;
+  border: solid #93c7e6;
+  border-radius: 10px;
+}
+
+#link {
+  word-break: break-all;
+}
+
+#smurfcatimg {
+  width: 30%;
+}
+
+@media only screen and (max-width: 767px) {
+    #smurfcatimg {
+        width:100%;
+    }
+}
